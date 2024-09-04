@@ -13,3 +13,6 @@ pip install sounddevice soundfile numpy scipy SpeechRecognition plyer
 
 # convert ringtones
 ffmpeg -i bharath-you-have-a-call.mp3 bharath-you-have-a-call.wav
+
+# Collaborative developement
+Feel free to use and commit updates!
